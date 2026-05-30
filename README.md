@@ -1,4 +1,4 @@
-Copy<!-- SECTION G: VISITOR COUNTER -->
+<!-- SECTION G: VISITOR COUNTER -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kiranmai-git11&label=Profile%20Views&color=0e75b6&style=flat" alt="kiranmai-git11" />
 </p>
