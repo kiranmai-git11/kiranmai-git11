@@ -25,8 +25,8 @@
 
 I'm an **Electronics & Communication Engineer** with a passion for **Embedded Systems**, **IoT**, and **Software Development**. I bridge the gap between hardware and software, crafting intelligent systems from the ground up.
 
-Beyond engineering, I'm a **content creator** sharing my tech journey:
-- 📺 **YouTube**: [@ranjithchintuvlogs](https://youtube.com/@ranjithchintuvlogs?si=hZsYPLOt8hEgNodx) — vlogging tech, projects & more
+Beyond engineering, I'm a **content creator** sharing my acting journey:
+- 📺 **YouTube**: [@ranjithchintuvlogs](https://youtube.com/@ranjithchintuvlogs?si=hZsYPLOt8hEgNodx) — vlogging my acting, projects & more
 - 📸 **Instagram**: [@kiran_kandhari11](https://www.instagram.com/kiran_kandhari11?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) — behind the scenes & builds
 
 ### ⚡ Fun Facts About Me
